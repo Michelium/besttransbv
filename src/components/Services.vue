@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="services">
         <div class="row mx-0 mb-2 first">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
                 <h3>Diensten</h3>

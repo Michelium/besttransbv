@@ -7,10 +7,10 @@
                 </div>
                 <div class="col-12 col-md-5">
                     <ul class="navbar-nav float-right">
-                        <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Over&nbsp;ons</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Diensten</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+                        <li class="nav-item"><a href="#about" class="nav-link">Over&nbsp;ons</a></li>
+                        <li class="nav-item"><a href="#services" class="nav-link">Diensten</a></li>
+                        <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
                     </ul>
                 </div>
             </div>

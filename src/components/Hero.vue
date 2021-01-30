@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="home">
         <div class="row mx-0">
             <div class="col-12 col-md-5 offset-md-1 offset-lg-2 text-section">
                 <h1>Best Trans B.V.</h1>

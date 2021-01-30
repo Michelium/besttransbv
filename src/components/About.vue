@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section id="about">
         <div class="row mx-0 mb-2">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
                 <h3>Over ons</h3>
