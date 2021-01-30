@@ -16,7 +16,7 @@
 <style scoped>
 section {
     background: #efe0e0;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 div {
@@ -49,8 +49,7 @@ h3 {
 }
 
 img {
-    position: absolute;
-    top: 120px;
+    margin-top: 120px;
     width: 95%;
 }
 
@@ -73,11 +72,10 @@ img {
     }
 
     img {
+        position: relative;
+        display: block;
         width: 70%;
-        top: 90px;
-        left: 0;
-        right: 0;
-        margin: 0 auto;
+        margin: 40px auto 0 auto;
     }
 }
 
