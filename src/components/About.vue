@@ -3,7 +3,7 @@
         <div class="row mx-0 mb-2">
             <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2">
                 <h3>Over ons</h3>
-                <hr class="w-100">
+                <hr>
             </div>
         </div>
         <div class="row mx-0">
@@ -34,6 +34,7 @@ h3 {
 
 img {
     width: 100%;
+    border: #707070 solid 1px;
 }
 </style>
 
