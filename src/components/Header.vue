@@ -5,7 +5,7 @@
                 <div class="col-12 col-md-3 offset-md-1 offset-lg-2">
                     <a href="#" class="navbar-brand"><h3>Best Trans B.V.</h3></a>
                 </div>
-                <div class="col-12 col-md-6 ">
+                <div class="col-12 col-md-5">
                     <ul class="navbar-nav float-right">
                         <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
                         <li class="nav-item"><a href="#" class="nav-link">Over&nbsp;ons</a></li>
