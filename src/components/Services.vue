@@ -12,23 +12,20 @@
                     <div class="col-12 col-md-4">
                         <img class="mb-3" src="@/assets/images/service1.jpg" alt="Service 1">
                         <h4>Direct</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque dicta dolor eaque error excepturi harum, illo incidunt iste itaque iure
-                            laborum
-                            laudantium nemo, nisi non optio quam.</p>
+                        <p>Aarzel niet om direct te bellen of te e-mailen. Hoe sneller hoe beter! Wij zullen u z.s.m. helpen en te woord staan en komen hopelijk op een mooie
+                            overeenkomst!</p>
                     </div>
                     <div class="col-12 col-md-4">
                         <img class="mb-3" src="@/assets/images/service2.jpg" alt="Service 2">
                         <h4>Flexibel</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque dicta dolor eaque error excepturi harum, illo incidunt iste itaque iure
-                            laborum
-                            laudantium nemo, nisi non optio quam.</p>
+                        <p>Bij ons is werk erg flexibel. Hou je van nachtdiensten Of dagdiensten? Nationaal of internationaal? Zelfde dag thuis of in de vrachtwagen slapen?
+                            Alleen weekenden of full time werken? Het kan allemaal bij Best Trans B.V.!</p>
                     </div>
                     <div class="col-12 col-md-4">
                         <img class="mb-3" src="@/assets/images/service3.jpg" alt="Service 3">
                         <h4>Snel</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam atque dicta dolor eaque error excepturi harum, illo incidunt iste itaque iure
-                            laborum
-                            laudantium nemo, nisi non optio quam.</p>
+                        <p>Ons transport bedrijf is een zeer betrouwbare vervoerder. Door niet alleen onze goed onderhouden nieuwe trekkers en onze ervaren chauffeurs. Maar ook
+                            door de sterke communicatie tussen de werkgevers en werknemers.</p>
                     </div>
                 </div>
             </div>

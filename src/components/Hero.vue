@@ -4,7 +4,7 @@
             <div class="col-12 col-md-5 offset-md-1 offset-lg-2 text-section">
                 <h1>Best Trans B.V.</h1>
                 <h3>Beste keuze voor transport in regio Haaglanden</h3>
-                <a class="btn btn-light text-white mt-md-2" href="#">CONTACT</a>
+                <a class="btn btn-light text-white mt-md-2" href="#contact">CONTACT</a>
             </div>
             <div class="col-md-5">
                 <img src="@/assets/images/hero.png" alt="Hero truck">

@@ -31,8 +31,44 @@
                     <button :disabled="!loaded" type="submit" class="btn btn-block btn-light">STUUR BERICHT</button>
                 </form>
             </div>
-            <div class="col-12 col-md-4 col-lg-3 d-none d-md-block">
-                <img class="float-right" src="@/assets/images/contact.jpg" alt="Contact">
+            <div class="col-12 col-md-4 col-lg-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h6>Bedrijfsgegevens:</h6>
+                        <ul class="list-group borderless">
+                            <li class="list-group-item pl-0">
+                                <div class="row">
+                                    <div class="col left"><i class="fa fa-phone mr-3"></i></div>
+                                    <div class="col"><a href="tel:0612345678">06 123 456 78</a></div>
+                                </div>
+                            </li>
+                            <li class="list-group-item pl-0">
+                                <div class="row">
+                                    <div class="col left"><i class="fa fa-envelope mr-3"></i></div>
+                                    <div class="col"><a href="mailto:info@besttransbv.nl">info@besttransbv.nl</a></div>
+                                </div>
+                            </li>
+                            <li class="list-group-item pl-0">
+                                <div class="row">
+                                    <div class="col left"><i class="fa fa-map-pin mr-3"></i></div>
+                                    <div class="col">
+                                        <p class="mb-0">Duke Ellingtonstraat 25 <br>
+                                            2551WB 's-Gravenhage <br>
+                                            Nederland</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="list-group-item pl-0">
+                                <div class="row">
+                                    <div class="col left"><i class="fa fa-briefcase mr-3"></i></div>
+                                    <div class="col">
+                                        <p>KVK: 77972007</p>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -106,5 +142,22 @@ button {
 
 button:hover {
     background-color: #c44b48;
+}
+
+li {
+    border: 0 none;
+}
+li .row {
+    display: flex;
+    margin-top: 0 !important;
+}
+
+li .col {
+    flex: 1;
+}
+
+li .col.left {
+    width: 20px;
+    flex: 0 0 15px;
 }
 </style>
