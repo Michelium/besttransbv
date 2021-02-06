@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg custom_navbar custom-navbar-light mx-0 px-0 pt-2 pb-0  mb-2 mb-sm-5 navbar-fixed-top" id="custom-navbar">
             <div class="row mx-0 pt-3 pt-lg-0 w-100">
                 <div class="col-12 col-md-3 offset-md-1 offset-lg-2">
-                    <a href="#" class="navbar-brand"><h3>Best Trans B.V.</h3></a>
+                    <a class="navbar-brand" href="#"><img src="@/assets/images/logo.png" alt="Best Trans B.V."></a>
                 </div>
                 <div class="col-12 col-md-5">
                     <ul class="navbar-nav float-right">
@@ -43,7 +43,8 @@ $(window).on('scroll', function () {
 
 <style scoped>
 nav .navbar-brand img {
-    max-width: 50%;
+    max-height: 57px!important;
+    display: block;
 }
 
 .custom-navbar-light {
@@ -68,7 +69,7 @@ nav .navbar-brand img {
 
 @media (max-width: 991.98px) {
     nav .navbar-brand img {
-        max-width: 70%;
+        /*max-width: 70%;*/
     }
 
     .custom-navbar-light {
