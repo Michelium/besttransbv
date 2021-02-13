@@ -39,7 +39,10 @@
                             <li class="list-group-item pl-0">
                                 <div class="row">
                                     <div class="col left"><i class="fa fa-phone mr-3"></i></div>
-                                    <div class="col"><a href="tel:0612345678">06 123 456 78</a></div>
+                                    <div class="col">
+                                        <a href="tel:0645362595">06 453 625 95</a><br>
+                                        <a href="tel:0685052234">06 850 522 34</a>
+                                    </div>
                                 </div>
                             </li>
                             <li class="list-group-item pl-0">
