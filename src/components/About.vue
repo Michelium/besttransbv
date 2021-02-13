@@ -10,7 +10,7 @@
             <div class="col-12 col-md-5 offset-md-1 col-lg-4 offset-lg-2">
                 <img src="@/assets/images/about.jpg" alt="About us">
             </div>
-            <div class="col-12 col-md-5 col-lg-4">
+            <div class="col-12 col-md-5 col-lg-4 mt-3 mt-md-0">
                 <p>
                     Wij zijn een transport bedrijf sinds 2018. Wij zijn tot nu toe alleen maar gegroeid en hebben vele plannen voor in de toekomst. Wij werken met veel andere bedrijven
                     samen. Wij hebben een totaal van 10 vrachtwagens rijden en plannen voor zeker meer. Wij vinden de sfeer en communicatie in ons bedrijf erg belangrijk en daarom
