@@ -31,7 +31,7 @@
                     <button :disabled="!loaded" type="submit" class="btn btn-block btn-light">STUUR BERICHT</button>
                 </form>
             </div>
-            <div class="col-12 col-md-4 col-lg-3">
+            <div class="col-12 col-md-4 col-lg-3 mt-3 mt-md-0">
                 <div class="card">
                     <div class="card-body">
                         <h6>Bedrijfsgegevens:</h6>
